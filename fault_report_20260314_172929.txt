@@ -1,0 +1,43 @@
+
+CIVIL ENGINEERING FAULT ANALYSIS REPORT
+=======================================
+Generated: 2026-03-14 17:29:29
+
+IMAGE ANALYSIS:
+- Cracks Detected: 8
+- Severity: Medium
+- Total Crack Area: 968.0 pixels
+- ML Prediction: Crack Detected (100.0% confidence)
+
+METADATA:
+
+    Location: Bridge Pillar #3, Highway 101
+    Structure Type: Reinforced Concrete Bridge
+    Inspection Date: 2024-01-15
+    Environmental Conditions: Coastal area, high humidity
+    Notes: Regular quarterly inspection
+    
+
+DETAILED REPORT:
+ENGINEERING REPORT (FALLBACK ANALYSIS)
+
+1. FAULT IDENTIFICATION:
+   - Type: Moderate cracking observed
+   - Element: Concrete structure
+   - Risk: MONITOR - Schedule detailed inspection
+
+2. CAUSE ANALYSIS:
+   - Likely shrinkage or minor settlement
+   - Possible environmental factors
+   - Normal wear and tear
+
+3. PREVENTION:
+   - Monitor crack propagation
+   - Seal surface cracks
+   - Improve drainage if external
+
+4. REMEDIATION:
+   - Fill cracks with appropriate sealant
+   - Schedule follow-up in 3 months
+   - Document for future reference
+        
